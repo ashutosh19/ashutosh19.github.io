@@ -1,6 +1,6 @@
 # My portfolio
 
-My name is [Dan Nguyen](http://twitter.com/dancow)
+My name is [Ashutosh Sharma](https://www.facebook.com/profile.php?id=100008696978418&sk=about)
 
 * [Bastards Book of Regular Expressions](http://regex.bastardsbook.com/)  - A free ebook on how to use regular expressions for everyday informational purposes
 
